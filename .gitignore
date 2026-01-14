@@ -1,0 +1,29 @@
+# =========================
+# Unity
+# =========================
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Ll]ogs/
+UserSettings/
+Build/
+Builds/
+
+# =========================
+# IDEs
+# =========================
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
